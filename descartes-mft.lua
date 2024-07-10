@@ -1,5 +1,7 @@
 -- Descartes MFT
--- A seqencer inspired by the Make Noise Rene for use with the Midi Fighter Twister controller
+-- A seqencer inspired by the
+-- Make Noise Rene for use with
+-- the Midi Fighter Twister controller
 
 inspect = include 'lib/inspect'
 
