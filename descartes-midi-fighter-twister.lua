@@ -1,5 +1,5 @@
--- Descartes
--- For use with Midi Fighter Twister
+-- Descartes Midi Fighter Twister
+-- A seqencer inspired by the Make Noise Rene for use with the Midi Fighter Twister controller
 
 inspect = include 'lib/inspect'
 
